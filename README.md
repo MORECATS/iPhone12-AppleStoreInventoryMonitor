@@ -1,4 +1,4 @@
-# iPhone12 - 中国大陆地区库存监控
+# iPhone12 - 中国大陆地区库存监控 App for macOS
 #iphone12pro预约#
 
 #### 软件功能
